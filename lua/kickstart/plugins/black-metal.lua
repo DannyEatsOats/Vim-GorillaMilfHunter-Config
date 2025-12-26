@@ -23,7 +23,7 @@ return {
       favor_treesitter_hl = true,
       -- Don't set background of floating windows. Recommended for when using floating
       -- windows with borders.
-      plain_float = false,
+      plain_float = true,
       -- Show the end-of-buffer character
       show_eob = true,
       -- If true, enable the vim terminal colors
